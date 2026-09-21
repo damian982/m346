@@ -1,4 +1,5 @@
 # Git-Repository und Markdown Syntax
+## Autor: Damian Hengartner (Diese Zeile lokal via VS Code gemacht)
 
 Übersicht meiner bearbeiteten Aufgaben und Begriffe:
 
